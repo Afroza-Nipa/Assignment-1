@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.top-section{
+    width:1200px  ;
+    display: flex;
+    margin:0 auto;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    color:#504D4D ;
+    
+}
+.banner-title
+{
+    font-size: 50px ;
+}
+
+.banner-title-2
+{
+color: #F5954E;
+}
+button{
+    background-color:#FB672B ;
+    width: 150px ;
+    padding: 15px;
+    border:none;
+    border-radius: 20px;
+    color: white;
+}
+.banner-title-3
+{
+    font-size: 50px ;
+
+}
+
+.banner-title-4
+{
+    font-size: 50px ;
+ font-family: sans-serif;
+}
+
+
+.about-section img{
+    width: 400px;
+
+}
+.about-section{
+    width:1500px  ;
+      display: flex;
+    margin:0 auto;
+    justify-content: center;
+    align-items:center;
+    font-family: sans-serif;
+background-color:#FEF3EC ;
+background-size: auto;
+gap:30px;
+color:#504D4D ;
+}
+    
+.banner-title-4{
+    text-align: center;
+    font-size: 50px ;
+}
+
+.para{
+    text-align: center;
+    font-family: sans-serif;
+    color:#504D4D ;
+}
+.recipie-items {
+    display: block;
+      
+}
+.recipies-card-box{
+    display: flex;
+    padding:  100px ;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-top:10px ;
+    margin-left: 80px;
+    margin-right: 80px;
+  padding-bottom: 20px;
+  padding-top:20px  ;
+  border:20 px solid white;
+  gap:40px;
+  color:#FFFFFF 
+}
+
+
+.recipies-card img {
+    width:300px;
+    display: flex;
+      margin: auto;
+}
+
+.card-text{
+    font-family: sans-serif;
+    color:#504D4D ;
+}
+.card-name{
+    color:#000000 ;
+}
+
+.social-media{
+    display: flex; 
+    padding-left: 100px;
+    padding-top:100 px;
+    gap: 200px; 
+    font-family: sans-serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+   ; 
+}
+
+
+.Subscribers {
+    font-size: 50px;
+  
+}
+
+
+
+.social-media-box{
+    background-color:#FFFFFF;
+    border-radius: 20px;
+    margin-bottom: 80px;
+margin-left: 150px;
+margin-right: 150px;
+margin-top:5px ;
+box-shadow: 5px 5px 10px 10px #EEEEEE
+}
+
+footer{
+background-color: black;
+height: 300px;
+text-align: center;
+color: white;
+padding-top: 20px;
+}
+span{
+    color:#F5954E ;
+}
